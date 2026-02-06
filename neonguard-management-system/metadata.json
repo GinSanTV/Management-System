@@ -1,7 +1,0 @@
-{
-  "name": "NeonGuard Management System",
-  "description": "A comprehensive Cyberpunk-themed enterprise management suite featuring role-based access, time tracking, task management, and administrative panels with a high-fidelity neon aesthetic.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
